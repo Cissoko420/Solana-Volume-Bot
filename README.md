@@ -7,6 +7,7 @@
 - Accumulate tokens everytime it sells, unless stop loss activates
 - Check starting usdc balance
 - Check usdc lost over time
+- Check worker status
 
 **Configs:**
 - Set 1 RPC for each worker or 1 for all workers
