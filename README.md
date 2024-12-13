@@ -16,4 +16,5 @@
   
 More information coming soon!
 
-![image](https://github.com/user-attachments/assets/cae429fc-6501-4be9-85b2-033f5393c170)
+![image](https://github.com/user-attachments/assets/f4fa82fc-48f6-4bd8-9020-c171c4662c75)
+
